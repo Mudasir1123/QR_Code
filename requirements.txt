@@ -1,0 +1,5 @@
+streamlit>=1.30.0
+qrcode
+numpy
+opencv-python
+Pillow
